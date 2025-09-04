@@ -4,4 +4,4 @@
 Этот репозиторий является каркасом для будущего веб-приложения.
 
 ## Ссылки
-- [Публичная страница на GitHub Pages](https://qihed.github.io/git04/)git 
+- [Публичная страница на GitHub Pages](https://qihed.github.io/git04/)
